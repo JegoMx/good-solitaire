@@ -2,7 +2,7 @@
 
 This is my submission for the technical test. All in all it took just over a day.
 
-The .apk is available in the "Builds" folder.
+The .apk is available in the "Releases" section on GitHub.
 
 All of the 3rd party assets, such as sprites, fonts and scripts, are all freely available.
 Note that I usually use some paid assets which I could not use here, notably 
